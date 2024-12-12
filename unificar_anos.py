@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Caminho do diretório contendo os arquivos txt
-diretorio = r'C:/Diretorio/...'
+diretorio = r'C:\Users\jgpar\OneDrive\Área de Trabalho\Nova pasta (4)\SBSP_5anos'
 dados = []
 
 
